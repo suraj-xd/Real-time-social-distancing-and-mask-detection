@@ -2,8 +2,7 @@
 ## with interactive voice commands and clothes coloring detection
 
 ##DEMO: : https://youtu.be/9u4jOUY6Wkc
-##Presentation: file:///C:/Users/suraj/Downloads/MODEL-converted%20(1).pdf
-
+##Presentation: https://drive.google.com/file/d/12_GViakrY_oYGyBLI0BP9oTWFDIhLT14/view?usp=sharing
 This Project uses tensorflow / Keras and Other Python ML libraries. (OpenCV, Numpy....)
 ## Funtionalities
 -> Real time Social distancing detection

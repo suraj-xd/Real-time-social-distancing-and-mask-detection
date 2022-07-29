@@ -21,4 +21,9 @@ This Project uses tensorflow / Keras and Other Python ML libraries. (OpenCV, Num
 
 Use:
 (after installing python and useful libraries used in the project
-Run: `Main.py`
+
+Run This Project:
+
+```bash
+  python main.py
+```

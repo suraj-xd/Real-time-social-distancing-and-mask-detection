@@ -1,6 +1,5 @@
 # Real-time-social-distancing-and-mask-detection
-## with interactive voice commands
-### with clothe coloring detection
+## with interactive voice commands and clothes coloring detection
 
 ##DEMO: : https://youtu.be/9u4jOUY6Wkc
 ##Presentation: file:///C:/Users/suraj/Downloads/MODEL-converted%20(1).pdf

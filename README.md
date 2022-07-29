@@ -2,9 +2,9 @@
 ## with interactive voice commands and clothes coloring detection
 
 ![Screenshot](demoImage.png)
-[![demo](https://img.shields.io/badge/DEMO-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://youtu.be/9u4jOUY6Wkc)
+[![demo](https://img.shields.io/badge/DEMO-000?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/9u4jOUY6Wkc)
 
-[![demo](https://img.shields.io/badge/Presentation-000?style=for-the-badge&logo=ko-fi&logoColor=yellow)](https://drive.google.com/file/d/12_GViakrY_oYGyBLI0BP9oTWFDIhLT14/view?usp=sharing)
+[![demo](https://img.shields.io/badge/Presentation-000?style=for-the-badge&logo=presentationfi&logoColor=yellow)](https://drive.google.com/file/d/12_GViakrY_oYGyBLI0BP9oTWFDIhLT14/view?usp=sharing)
 
 This Project uses `tensorflow` / `Keras` and Other Python ML libraries. (`OpenCV`, `Numpy`....)
 ## Funtionalities

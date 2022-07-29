@@ -4,7 +4,8 @@
 ![Screenshot](demoImage.png)
 [![demo](https://img.shields.io/badge/DEMO-F51212?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/9u4jOUY6Wkc)
 
-[![demo](https://img.shields.io/badge/Slide-Presentation-FBFD52?style=for-the-badge&logo=drive&logoColor=white)](https://drive.google.com/file/d/12_GViakrY_oYGyBLI0BP9oTWFDIhLT14/view?usp=sharing)
+[![demo](https://img.shields.io/badge/
+Presentation-FBFD52?style=for-the-badge&logo=drive&logoColor=white)](https://drive.google.com/file/d/12_GViakrY_oYGyBLI0BP9oTWFDIhLT14/view?usp=sharing)
 
 This Project uses `tensorflow` / `Keras` and Other Python ML libraries. (`OpenCV`, `Numpy`....)
 ## Funtionalities <br>

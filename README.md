@@ -1,6 +1,8 @@
 # Real-time-social-distancing-and-mask-detection
 ## with interactive voice commands and clothes coloring detection
 
+https://github.com/suraj-xd/Real-time-social-distancing-and-mask-detection/blob/main/Screenshot 2.png?raw=true
+
 DEMO: : https://youtu.be/9u4jOUY6Wkc
 Presentation: https://drive.google.com/file/d/12_GViakrY_oYGyBLI0BP9oTWFDIhLT14/view?usp=sharing
 This Project uses tensorflow / Keras and Other Python ML libraries. (OpenCV, Numpy....)
